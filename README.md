@@ -1,4 +1,5 @@
-### Welcome there 👋
+### Welcome my friends! 😄
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freecho)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **freecho/freecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

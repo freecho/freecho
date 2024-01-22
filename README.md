@@ -4,11 +4,11 @@
 
 📫 If you have any requirements, please email: 2507544221@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freecho&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![freecho's GitHub stats](https://github-readme-stats-sooty-beta-38.vercel.app/api?username=freecho&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 coding is not limited to language.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freecho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sooty-beta-38.vercel.app/api/top-langs/?username=freecho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -6,7 +6,7 @@
 
 [![freecho's GitHub stats](https://github-readme-stats-sooty-beta-38.vercel.app/api?username=freecho&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 coding is not limited to language.
+🔭 A true master is an eternal student.
 
 [![Top Langs](https://github-readme-stats-sooty-beta-38.vercel.app/api/top-langs/?username=freecho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

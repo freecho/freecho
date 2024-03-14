@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats-sooty-beta-38.vercel.app/api/top-langs/?username=freecho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+⚡ 本人主要擅长后端&爬虫相关技术，欢迎联系合作！
+
 
 
 

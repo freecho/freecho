@@ -7,7 +7,7 @@
 🔭 A true master is an eternal student.
 
 ⚡ 本人主要擅长后端&爬虫相关技术，欢迎联系合作！
-<p float="left">
+<p style="height=100vw">
 <img src="https://github-readme-stats-sooty-beta-38.vercel.app/api?username=freecho&show_icons=true&theme=transparent&count_private=true" style="height:20vh; width:45%">
 <img src="https://github-readme-stats-sooty-beta-38.vercel.app/api/top-langs/?username=freecho&layout=compact" style="height:20vh; width:45%">
 </p>
